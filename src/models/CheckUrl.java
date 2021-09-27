@@ -20,8 +20,8 @@ public class CheckUrl {
 
     }
     // TODO: ha nincs https:// akkor kiegészítjük
-    public void expandProtocol() {
-        
+    public void expandProtocol() {//asd
+
 
     }
 }
